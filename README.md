@@ -9,4 +9,5 @@ Contains an index of my [github gists](https://gist.github.com/dhbalaji). I pers
 5. [Accessibility - tabIndex values and clarification](https://gist.github.com/dhbalaji/8a0ac0575c6194175cbedd79b97b0f4c)
 6. [How to bebug mobile UI on chrome android](https://gist.github.com/dhbalaji/095b226ad423b9dbbd42014e6f98e289)
 
+![](./images/chromeandroid.png)
 

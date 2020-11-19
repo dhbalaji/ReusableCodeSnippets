@@ -11,3 +11,5 @@ Contains an index of my [github gists](https://gist.github.com/dhbalaji). I pers
 
 ![](./images/chromeandroid.png)
 
+7. [Useful one line Utils for every JS project](https://gist.github.com/dhbalaji/9bd39f27c81a6d05c57c1d067d7963a5)
+

@@ -8,8 +8,5 @@ Contains an index of my [github gists](https://gist.github.com/dhbalaji). I pers
 4. [Check for substring in string, item in an array in ES6](https://gist.github.com/dhbalaji/31c0c9af15bc4433039a860cdfff5159)
 5. [Accessibility - tabIndex values and clarification](https://gist.github.com/dhbalaji/8a0ac0575c6194175cbedd79b97b0f4c)
 6. [How to bebug mobile UI on chrome android](https://gist.github.com/dhbalaji/095b226ad423b9dbbd42014e6f98e289)
-
-![](./images/chromeandroid.png)
-
 7. [Useful one line Utils for every JS project](https://gist.github.com/dhbalaji/9bd39f27c81a6d05c57c1d067d7963a5)
 

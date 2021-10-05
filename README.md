@@ -10,4 +10,5 @@ Contains an index of my [github gists](https://gist.github.com/dhbalaji). I pers
 6. [How to bebug mobile UI on chrome android](https://gist.github.com/dhbalaji/095b226ad423b9dbbd42014e6f98e289)
 7. [Useful one line Utils for every JS project](https://gist.github.com/dhbalaji/9bd39f27c81a6d05c57c1d067d7963a5)
 8. [Set Permenant and temporary aliases in linux](https://gist.github.com/dhbalaji/b0a954b66267945353106d65929868c0)
+9. [Files to copy before changing OS](https://gist.github.com/dhbalaji/b7f4eda17e38aad1b88a3a9fa9d4913d)
 
